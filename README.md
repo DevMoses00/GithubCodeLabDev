@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# THIS IS A TEST REPO WITH TEST CONTENT. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+I DID NOT LEAVE IT AS ORIGINAL!!!
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Here is content.
